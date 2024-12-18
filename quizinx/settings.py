@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-ak=-%t5###kv&p#y!3gg648s9d#7wjk9ci-(bb4p^=pxfqo13@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["quizinx-backend.onrender.com"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:5173",
